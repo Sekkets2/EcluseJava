@@ -1,2 +1,2 @@
 # EcluseJava
-Premier utilisation de Swing.
+Première utilisation de Swing.
